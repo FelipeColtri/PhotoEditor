@@ -1,5 +1,7 @@
 test.py
 
+fotos/*
+
 *.jpeg
 *.jpg
 *.png

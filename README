@@ -1,0 +1,11 @@
+# Trabalho Final da Disciplina de Computação Gráfica
+
+### Felipe Coltri
+### Engenharia de Computação
+### UTFPR - PB
+
+Encontra-se nesse repositório dois arquivos .py da versão alfa (V 0.1), de um simples - bem simples mesmo - editor de imagem. 
+O arquivo photo_editor_cli.py executa o programa no terminal e o arquivo photo_editor_graphic.py executa o programa no modo gráfico.
+Foi usado a biblioteca PIL (https://pillow.readthedocs.io/en/stable/), para o tratamento das imagens e a biblioteca Tkinter (https://docs.python.org/3/library/tkinter.html), para o modo gráfico.
+*Todos os testes foram realizados no sistema operacional GNU/Linux baseado no Ubuntu 20.04. E não foi testado em outro SO.*
+Sinta-se livre para copiar, usar e contribuir para esse projeto :)
